@@ -43,11 +43,6 @@
 
 Vue 3 + ThinkPHP 8 + MySQL + Nginx
 
-## 📞 联系方式
-
-技术支持或定制开发，请联系：
-**Telegram**: [@your_telegram_username](https://t.me/your_telegram_username)
-
 ---
 
 ⭐ 如果这个项目对你有帮助，欢迎 Star 支持！
