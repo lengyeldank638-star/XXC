@@ -1,5 +1,5 @@
 技术支持或定制开发，请联系：
-**Telegram**: [@your_telegram_username](https://t.me/your_telegram_username)
+**Telegram**: [@Getshell_Webshell](https://t.me/Getshell_Webshell)
 
 > 基于 Vue 3 + ThinkPHP 8 的现代化彩票投注管理系统
 
